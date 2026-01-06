@@ -2,7 +2,9 @@
 
 A real-time, agentic voice scheduling assistant that converses naturally with users, collects meeting details, confirms intent, and creates real Google Calendar events.
 
-
+ 
+ .
+ 
 Features
 
 🗣 Conversational AI agent (stateful)
